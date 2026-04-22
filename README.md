@@ -30,6 +30,7 @@ Automation Risk (%)
 Required Education
 Required Experience
 Remote Work Ratio (%)
+
 Project Structure
 SectionName_TeamID_ProjectName/
 │
@@ -61,6 +62,7 @@ SectionName_TeamID_ProjectName/
 │
 └── docs/
     └── data_dictionary.md
+
 Methodology
 1. Data Extraction
 Dataset loaded using Python (Pandas)
